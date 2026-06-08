@@ -1,0 +1,10 @@
+project_id = "wiwdajmrkajmhikvprtj"
+
+[functions.packing-suggestions]
+verify_jwt = false
+
+[functions.weather-forecast]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
